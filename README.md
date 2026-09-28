@@ -16,4 +16,4 @@ Utilizing a deep learning encoder-decoder architecture built in PyTorch, the sys
 - **Data Engineering:** OpenCV, NumPy
 
 ## Industrial Transition Framing
-*Architectural Insight:* The underlying convolutional mechanics and dimension transformation pipelines deployed within this code repository map directly from advanced biometric computer vision frameworks (such as deep neural networks utilized to segment microscopic anomalies or fractures in continuous volumetric arrays [1]). The mathematical principles remain identical when applied to identify structural fissures or cracking on industrial steel infrastructure.
+*Architectural Insight:* The underlying convolutional mechanics and dimension transformation pipelines deployed within this code repository map directly from advanced biometric computer vision frameworks (such as deep neural networks utilized to segment microscopic anomalies or fractures in continuous volumetric arrays). The mathematical principles remain identical when applied to identify structural fissures or cracking on industrial steel infrastructure.
